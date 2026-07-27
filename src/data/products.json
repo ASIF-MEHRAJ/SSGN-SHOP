@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Vortex 2.0 Runner",
+    "image": "https://imgs.search.brave.com/vJHFUao9JESEfYPAw5uUfxeyeauSSY9ruBtCGeHAL5U/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMTMv/NDY1LzgxNy9zbWFs/bC9ydW5uaW5nLWFu/ZC1zcG9ydHMtc2hv/ZXMtcGhvdG8uanBn",
+    "description": "The Vortex 2.0 is built for speed and comfort. Lightweight mesh upper, responsive cushioning and a rugged outsole make it perfect for daily training or just moving around the city without slowing down.",
+    "category": "Sneakers",
+    "price": 129.99,
+    "rating": 4.5,
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "name": "Blaze Trail Sneaker",
+    "image": "https://imgs.search.brave.com/MEfDMPzXRnyaBrGDTZaEsjXH0siBrVaXZU1-jsSL8rk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/bGVtc3Nob2VzLmNv/bS9jZG4vc2hvcC9m/aWxlcy9qdW5pcGVy/X2NjYmNjMzNlLTAx/NDYtNDAxMy04MTRm/LWUzYWZhZTViN2Fj/Mi5qcGc_dj0xNzQy/NDkyMzIwJndpZHRo/PTE4MDA",
+    "description": "Blaze Trail Sneakers give you grip on any terrain. A durable rubber sole and padded collar keep your feet protected on long runs.",
+    "category": "Sneakers",
+    "price": 109.99,
+    "rating": 4.2,
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "name": "Nightfall High Tops",
+    "image": "https://imgs.search.brave.com/6xctmfksSOWTXCxyj9E3CwyeTUpTxPJE31pbSwnkVfw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc3F1YXJlc3Bh/Y2UtY2RuLmNvbS9j/b250ZW50L3YxLzVm/MjU5OTE1MDc5ZDM5/NjZhYzIwYzgzMy9i/ZjNmYzkwYS0wMDk5/LTRlODYtYTI0Yy00/NTFlZmI5NTgzYzAv/ZmFsbCtkYXRlK25p/Z2h0K291dGZpdHM",
+    "description": "A high top sneaker with extra ankle support, made for streetwear lovers who still want performance.",
+    "category": "Sneakers",
+    "price": 139.99,
+    "rating": 4.7,
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "name": "Core Hoodie",
+    "image": "https://images.unsplash.com/photo-1619730448563-8e30baf3154a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG9kZGllc3xlbnwwfHwwfHx8MA%3D%3D",
+    "description": "Heavyweight cotton hoodie with a relaxed fit. Soft fleece lining keeps you warm before and after workouts.",
+    "category": "Apparel",
+    "price": 59.99,
+    "rating": 4.4,
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "name": "Performance Tee",
+    "image": "https://imgs.search.brave.com/1S9ECzujdDVWrbzzPB-13qnuynKWmII5rqbnUhxmPJo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wZWVs/ZXJzYXBwYXJlbC5j/b20vY2RuL3Nob3Av/ZmlsZXMvMV9iOWU0/NGMyNi0xMTdhLTQ5/ZDItYjYyZi0yZDJm/ZDRlZDgyYmIucG5n/P3Y9MTc1MjY5OTM0/NiZ3aWR0aD0zMjA",
+    "description": "Moisture wicking fabric that keeps you dry during intense sessions. Slim athletic fit.",
+    "category": "Apparel",
+    "price": 24.99,
+    "rating": 4.1,
+    "stock": 30
+  },
+  {
+    "id": 6,
+    "name": "Track Jacket",
+    "image": "https://imgs.search.brave.com/F1vOctbTNi2SpZz1jzSWqQPHrZKb9-kgfEc48DvyJAA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMubXludGFzc2V0/cy5jb20vZHByXzIs/cV82MCx3XzIxMCxj/X2xpbWl0LGZsX3By/b2dyZXNzaXZlL2Fz/c2V0cy9pbWFnZXMv/MjAyNS9KVU5FLzcv/eFFlU3YyMWhfNzQx/NWUwNTE4YzYyNDdh/NjljMTgyNGNiMWIx/NmJmZGYuanBn",
+    "description": "Lightweight zip up jacket, great for warm ups or a casual layer on cooler days.",
+    "category": "Apparel",
+    "price": 74.99,
+    "rating": 4.3,
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "name": "SGSIN Snapback Cap",
+    "image": "https://imgs.search.brave.com/RHiqwCRF_kSvnh92qxYweKgRfr-5vhb8UqjZSBEhf7c/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdG9y/ZS5zdW5idXJuLmlu/L2Nkbi9zaG9wL2Zp/bGVzL3NuYXBiYWNr/YmxhY2stMWNhcF8y/NjZkNzYyNS04ZWJm/LTQxMDItYTIzZC0x/ZGYyYzU4YmZjYmIu/anBnP3Y9MTcxMDQx/NzE4MSZ3aWR0aD0x/NDQ1",
+    "description": "Adjustable snapback with embroidered logo. One size fits most.",
+    "category": "Accessories",
+    "price": 29.99,
+    "rating": 4.0,
+    "stock": 25
+  },
+  {
+    "id": 8,
+    "name": "Wristband Set (2 pack)",
+    "image": "https://imgs.search.brave.com/gsFZRR8BizNEPQBFIfgM-CbhxreXpjxG8LObQsl5FoY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJ1cGxvYWQv/MjMxMTQyNzQvZmls/ZS9vcmlnaW5hbC1k/NGZkMzMyZDdkY2Yw/NzRkY2I4YTEyNzAw/OGJmYWE5My5wbmc_/Zm9ybWF0PXdlYnAm/cmVzaXplPTQwMHgz/MDAmdmVydGljYWw9/Y2VudGVy",
+    "description": "Sweat absorbing wristbands, sold as a pair. Great for gym and training sessions.",
+    "category": "Accessories",
+    "price": 12.99,
+    "rating": 3.9,
+    "stock": 40
+  },
+  {
+    "id": 9,
+    "name": "Performance Duffel Bag",
+    "image": "https://imgs.search.brave.com/7LJ4_dCveBGxXcC9cnDDadMwaCOP1MjuteoccU7zJCw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly96b3Vr/LmNvLmluL2Nkbi9z/aG9wL2ZpbGVzL1RH/X0NEXzAxLmpwZz92/PTE3NzcwMzQ0NjYm/d2lkdGg9MTA4MA",
+    "description": "Spacious duffel bag with a separate shoe compartment. Durable water resistant material.",
+    "category": "Bags",
+    "price": 64.99,
+    "rating": 4.6,
+    "stock": 10
+  },
+  {
+    "id": 10,
+    "name": "Urban Backpack",
+    "image": "https://imgs.search.brave.com/lLBjt24NGHuYZQa-_CMZPXP2lIjO0hltsm-CYNcgXzM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90b3J2/b2wuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzA1L0ZT/STA3MTI4LXNjYWxl/ZC0xNjAweDIwMDAu/anBn",
+    "description": "A sleek backpack with laptop sleeve, side pockets and padded straps for everyday carry.",
+    "category": "Bags",
+    "price": 79.99,
+    "rating": 4.5,
+    "stock": 14
+  },
+  {
+    "id": 11,
+    "name": "Crew Socks (3 pack)",
+    "image": "https://imgs.search.brave.com/OxPrA5y-sqDver4RsR1c5ikm8BMOVThRhSDj83txZjI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oZWVs/aXVtLmluL2Nkbi9z/aG9wL2ZpbGVzL0Q0/LU9QVC1QNC1CTEtH/UkVURUFOQl8zNDV4/MzQ1QDJ4LmpwZz92/PTE3MzM0Nzk0NjY",
+    "description": "Cushioned crew socks with arch support. Sold as a pack of three pairs.",
+    "category": "Socks",
+    "price": 14.99,
+    "rating": 4.3,
+    "stock": 50
+  },
+  {
+    "id": 12,
+    "name": "No Show Socks (5 pack)",
+    "image": "https://imgs.search.brave.com/0vlpiUAWWwSvpjfQNR3eCdl9OSQp2gTI3cm4y7nnnWQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/OTF4LVFCTzVLYUwu/anBn",
+    "description": "Breathable no show socks that stay in place. Perfect under sneakers.",
+    "category": "Socks",
+    "price": 17.99,
+    "rating": 4.2,
+    "stock": 45
+  },
+  {
+    "id": 13,
+    "name": "Shaker Bottle",
+    "image": "https://imgs.search.brave.com/_bv1q-4SOlx0rTJqDtMOcSESqH-b49ZKVNMcKFSBLlM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9hcnJv/d21heC5pbi9jZG4v/c2hvcC9maWxlcy9D/aGF0R1BUSW1hZ2VK/dW4xMV8yMDI2XzA5/XzU5XzU4UE1fNTMz/eC5wbmc_dj0xNzgx/MTk1Njc2",
+    "description": "700ml shaker bottle with mixing ball, leak proof lid. BPA free plastic.",
+    "category": "Equipment",
+    "price": 15.99,
+    "rating": 4.4,
+    "stock": 35
+  },
+  {
+    "id": 14,
+    "name": "Resistance Bands Set",
+    "image": "https://imgs.search.brave.com/XdibK-2Xid1VX7WOZfiCl8G-39G6MYNbIXJ8oSaDjLI/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jdWx0/c3RvcmUuY29tL2Nk/bi9zaG9wL2ZpbGVz/LzFfNTk5ZTFmODAt/MWFiOC00ZTVjLWJj/ZGItMWY1NjY4YzQw/NTUwLmpwZz92PTE3/NDY2MTM1Njcmd2lk/dGg9MTA4MA",
+    "description": "Set of 5 resistance bands with varying tension levels, includes carry pouch.",
+    "category": "Equipment",
+    "price": 22.99,
+    "rating": 4.5,
+    "stock": 18
+  },
+  {
+    "id": 15,
+    "name": "Momentum Slide Sandals",
+    "image": "https://imgs.search.brave.com/CNM1spLGTf6fq3mD0EphE2obxe3fRG-i_tDZucMQHic/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQzLzVl/LzUxLzQzNWU1MTli/NTA3YWYyN2UyNTQ3/MDBhYWVhMmI3MmMx/LmpwZw",
+    "description": "Comfortable recovery slides with contoured footbed. Great for after workout recovery.",
+    "category": "Sneakers",
+    "price": 34.99,
+    "rating": 4.0,
+    "stock": 22
+  },
+  {
+    "id": 16,
+    "name": "Compression Leggings",
+    "image": "https://imgs.search.brave.com/2iUiNZjwZapKHHC5PN-FHQVGOQek1YZx_sC-sI3pslo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFscjhneWxmS0wu/anBn",
+    "description": "Four way stretch compression leggings that move with you. High waistband.",
+    "category": "Apparel",
+    "price": 44.99,
+    "rating": 4.6,
+    "stock": 16
+  }
+]

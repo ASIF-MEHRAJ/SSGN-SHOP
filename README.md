@@ -28,7 +28,7 @@ The project is designed with reusable components, organized folder structure, an
 ## 🌐 Live Demo
 
 **Website:**  
-*Add your deployed project link here*
+https://ssgn-shop.vercel.app/
 
 ## 👨‍💻 Author
 
